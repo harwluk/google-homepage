@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Google's Cribpage</title>
+	<link href="stylesheet.css" rel="stylesheet">
+</head>
+
+<body>
+	<div class="header">
+		<ul>
+			<li>Luke</li>
+			<li>Gmail</li>
+			<li>Images</li>
+			<li><img src="https://lh3.ggpht.com/ExOY2XlSbdfFFE3BZ5l44wBQEU5JVsVrertIIdjPy93yfDfomhKx0waLXA9Hhv5qvg-b3aaq=w22"/></li>
+			<li><img src="https://www.imparture.com/uploads/editor/Blog/Google+/Image10-(1).jpg"/></li>
+			<li><img src="https://www.google.com/imgres?imgurl=http://www.dreamtemplate.com/dreamcodes/web_icons/gray-close-delete-circle-icon.png&imgrefurl=http://www.dreamtemplate.com/dreamcodes/documentation/web_icons.html&h=20&w=20&tbnid=AopEJV8OG2cDxM:&docid=3XPSYZEWGrOFtM&ei=4qoBVsuAKoLx-QHvmb3oCA&tbm=isch&client=ubuntu&ved=0CDkQMygVMBVqFQoTCMv5hY6vi8gCFYJ4Pgod70wPjQ/></li>
+		</ul> 
+	</div>
+
+	<div class="logo">
+		<img src="http://o.aolcdn.com/hss/storage/midas/9c4e8a638879a25c32623e07c8ba0dd6/202565057/OGB-INSIDER-BLOGS-GoogleLogox2-Animated.gif"/>
+	</div>
+	<div class="search">
+		<img src="http://www.mlwebco.com/wp-content/uploads/2011/12/google_serach_box.png"/>
+	</div>
+
+	<div class="button">
+	<!-- search -->
+	</div>
+
+	<div class="button">
+	<!-- feeling lucky -->
+	</div>
+
+	<div class="advert">
+		<p>Don't be evil.</p>
+	</div>
+
+	<div class="footer">
+		<div class="f-left">
+			<ul>
+				<li>Advertising</li>
+				<li>Business</li>
+				<li>About</li>
+			</ul>
+		</div>
+		<div class="f-right">
+			<ul>
+				<li>Privacy</li>
+				<li>Terms</li>
+				<li>Settings</li>
+			</ul>
+		</div>	
+	</div>
+
+</body>
+
+</html>
